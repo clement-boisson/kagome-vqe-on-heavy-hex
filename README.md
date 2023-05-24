@@ -8,6 +8,6 @@ It consists of 3 files:
 
 ## Authors
 - [Clément Boisson](https://github.com/clement-boisson)
-- [Irene de Léon](https://github.com/IrenedeLeon)
+- [Irene de León](https://github.com/IrenedeLeon)
 
 Feel free to contact us if you have any questions!
