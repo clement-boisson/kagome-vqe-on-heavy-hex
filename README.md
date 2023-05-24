@@ -7,7 +7,7 @@ It consists of 3 files:
 - [notebook.ipynb](notebook.ipynb): a python notebook showing how to use the estimator and implement our method with qiskit
 
 ## Authors
-- Clément Boisson
-- Irene de Léon
+- [Clément Boisson](https://github.com/clement-boisson)
+- [Irene de Léon](https://github.com/IrenedeLeon)
 
 Feel free to contact us if you have any questions!
